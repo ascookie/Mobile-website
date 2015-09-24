@@ -52,7 +52,13 @@
 				    <li>Short-looking teeth</li>
 				    <li>Gummy smiles</li>
 				</ul>
+
+				<div class="callAction center">
+				<a data-theme="b" href="#" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
+
 			</div>
+			</div>
+
 
 			<div data-role="footer">
 				<?php include "footer.php" ?>
