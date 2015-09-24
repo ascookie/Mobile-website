@@ -14,6 +14,7 @@ body{text-shadow: none;}
 	margin: 0 auto;
 }
 
+h2{font-family: serif; font-style: italic;}
 /* Start header */
 .home-header{
 	width: 100%;
@@ -53,10 +54,23 @@ body{text-shadow: none;}
 	margin: 0 auto;
 	text-align: center;
 	border-top: 1px solid #ccc;
-	background: linear-gradient(180deg, #38BBC1, #2ea4a9);
-
+	background: linear-gradient(180deg, #b58e6f, #fff);
 }
 
 .ui-bar-a, .ui-page-theme-a .ui-bar-inherit, html .ui-bar-a .ui-bar-inherit, html .ui-body-a .ui-bar-inherit, html body .ui-group-theme-a .ui-bar-inherit{
 	text-shadow: none;
+}
+
+.homelist{width: 80%; margin: 20px auto;}
+
+/*.homelist ul{margin: 15px; }*/
+
+.homelist ul li{text-align: center;}
+
+/* Start Main Content */
+
+.mainstyle{
+	width: 80%;
+	margin: 0px auto;
+
 }
