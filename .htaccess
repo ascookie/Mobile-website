@@ -1,0 +1,10 @@
+DirectoryIndex index.php
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www.m.dentist4veneers.com [NC]
+RewriteRule ^(.*)$ http://m.dentist4veneers.com/$1 [L,R=301]
+
+
+RewriteCond %{HTTP_USER_AGENT} "!(android|blackberry|googlebot-mobile|iemobile|ipad|iphone|ipod|opera mobile|palmos|webos)" [NC]
+RewriteRule ^$ http://www.dentist4veneers.com/ [L,R=302]

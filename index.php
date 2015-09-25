@@ -36,6 +36,8 @@
 
 				<p>Our fantastic team will be there each step of the way to make sure you are comfortable and make you feel at home.</p>
 
+				<p><iframe src="https://www.youtube.com/embed/GNmkV5HTPl0?rel=0" frameborder="0" style="width:100%;height:320px;" allowfullscreen></iframe></p>
+
 				<h2 style="text-align: center;">VENEERS</h2>
 				<p>
 					If you are looking to correct a major or even minor imperfection in your smile, porcelain veneers can be a great option. Certain things we eat and drink, as well as dental injuries and the natural aging process can all have a negative impact on our teeth and smile. Porcelain dental veneers can correct both aesthetic and functional conditions such as:
