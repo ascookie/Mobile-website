@@ -113,7 +113,7 @@ $headers = 'From: '.$email_from."\r\n".
                 <center>You message has been send,</br>We will contact you shortly.</center>
       </div>
       <div class="callAction center">
-        <a data-theme="b" href="#" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
+        <a data-theme="b" href="tel:+18052257502" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
 
       </div>
       <div class="homelist">

@@ -18,14 +18,14 @@
 				<img src="img/dentist-veneers-los-angeles-banner.jpg" alt="dentist veneers los angeles" class="fullWidth">
 			</div>
 			<div class="callAction center">
-				<a data-theme="b" href="#" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
+				<a data-theme="b" href="tel:+18052257502" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
 
 			</div>
 			<div class="homelist">
 				<?php include "homelist.php" ?>
 			</div>
 			<div class="callAction center">
-				<a data-theme="b" href="#" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
+				<a data-theme="b" href="tel:+18052257502" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
 
 			</div>
 			<div role="main" class="ui-content mainstyle">
@@ -56,7 +56,7 @@
 				</ul>
 
 				<div class="callAction center">
-				<a data-theme="b" href="#" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
+				<a data-theme="b" href="tel:+18052257502" class="ui-btn ui-shadow callBtn"><i class="fa fa-phone fa-lg"></i> <i>Call Us Now</i></a>
 
 			</div>
 			</div>
